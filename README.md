@@ -42,6 +42,7 @@
 
 > [!TIP]
 > Type `cheat` on the menu. Just type it, dont ask.
+> Mobile ver soon and custom texture, imma draw alot for thiz 
 
 ---
 
