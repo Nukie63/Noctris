@@ -79,4 +79,3 @@ Nukie's face now changes during the boss fight, so you can tell what he's up to.
  
 </div>
  
-Claude finished the response
