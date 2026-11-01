@@ -4,7 +4,7 @@
  
 ### Tetris for beginners ig?
  
-[![Play NocTris](https://img.shields.io/badge/%E2%96%B6%20PLAY%20NOW-NocTris-3ecf6e?style=for-the-badge)](https://nukie63.github.io/Nukietris/)
+[![Play NocTris](https://img.shields.io/badge/%E2%96%B6%20PLAY%20NOW-NocTris-3ecf6e?style=for-the-badge)](https://nukie63.github.io/Noctris/)
  
 ![Version](https://img.shields.io/badge/version-N63.1.6.0-ffb347?style=for-the-badge)
 ![Beta](https://img.shields.io/badge/BETA-ef5b5b?style=for-the-badge)
