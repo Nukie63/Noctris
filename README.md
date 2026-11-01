@@ -15,7 +15,7 @@
  
 </div>
 > [!IMPORTANT]
-> **Nukietris is now NocTris!** Same game, new name, new art, and a **Beta** label. Version **N63.1.6.0 Beta**.
+> **Nukietris is now NocTris! N63.1.6.0 Beta**
  
 ---
  
