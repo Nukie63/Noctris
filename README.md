@@ -1,22 +1,7 @@
-Claude
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Readme · MD
 <div align="center">
 <img src="assets/logo.png" alt="NocTris" width="440">
+ 
 ### Tetris for beginners ig?
  
 [![Play NocTris](https://img.shields.io/badge/%E2%96%B6%20PLAY%20NOW-NocTris-3ecf6e?style=for-the-badge)](https://nukie63.github.io/Nukietris/)
