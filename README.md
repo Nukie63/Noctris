@@ -42,7 +42,7 @@
 | | |
 |---|---|
 | 🔊 **Sound effects** | 62 sounds for gameplay, combos, warnings, menus and game flow. Everything is embedded in the single HTML file |
-| 🎚️ **SFX volume** | New slider in **Options** (set it to 0 to mute) |
+| 🎚️ **SFX volume** | New slider in **Options** (set it to 0 to mute) made by 32bits!!!!!|
 | 🤖 **Menu demo bot** | A bot plays on the board while you are in the menu. You can turn it off in **Options** |
 | 👥 **Credits and testers** | **About** now has Credits, TETR.IO names and a Testers list |
 
